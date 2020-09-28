@@ -26,7 +26,7 @@ public class KlasseSwitch {
         st4.navn ="Andreas";
         st4.alder =23;
         st4.by ="Naestved";
-    //    st4.retning = "Naestved";
+    //    st4.retning = "date";
 
         System.out.println("Gruppe");
 
